@@ -23,5 +23,11 @@ It leverages the **BLIP (Bootstrapping Language-Image Pretraining)** model to ge
 2. The BLIP model processes the image and generates a caption.
 3. The caption is displayed as output in the web interface.
 
-## How to Run
-Run the app: python image_captioning_app.py
+## ▶️ How to Run
+
+### 1. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+2. Run the app: python image_captioning_app.py
