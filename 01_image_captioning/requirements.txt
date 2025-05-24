@@ -1,1 +1,5 @@
-
+transformers
+gradio
+requests
+Pillow
+torch
