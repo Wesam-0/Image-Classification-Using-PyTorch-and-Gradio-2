@@ -15,8 +15,8 @@ The projects focus on applying modern Generative AI tools (such as BLIP, LLMs, L
 | #  | Project Title                                   | Status          |
 |----|--------------------------------------------------|------------------|
 | 01 | [Image Captioning App](./01_image_captioning)   | ✅ Completed     |
-| 02 | [Create Your Own ChatGPT-Like Website](./02_chatgpt_like_website) | 🔄 In Progress   |
-| 03 | Text Generation with Hugging Face Transformers   | ⏳ Not Started   |
+| 02 | [Create Your Own ChatGPT-Like Website](./02_chatgpt_like_website) | ✅ Completed   |
+| 03 | Text Generation with Hugging Face Transformers   | 🔄 In Progress   |
 | 04 | Audio Transcription with Whisper & LLMs          | ⏳ Not Started   |
 | 05 | Conversational Agent with Prompt Engineering     | ⏳ Not Started   |
 | 06 | Multi-Modal App (Text & Image input)             | ⏳ Not Started   |
