@@ -41,8 +41,6 @@ The app provides a natural and interactive conversational experience, bridging s
 # Step 1: Install dependencies
 pip install -r requirements.txt
 
-###▶️
-
-# Step 2: Run the assistant
+Step 2: Run the assistant
 docker build . -t voice-chatapp-powered-by-openai
 docker run -p 8000:8000 voice-chatapp-powered-by-openai
