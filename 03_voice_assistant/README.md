@@ -22,7 +22,7 @@ The app provides a natural and interactive conversational experience, bridging s
 
 | File         | Description                              |
 |--------------|------------------------------------------|
-| `server py`     | Main logic for capturing voice, generating response, and speaking it |
+| `server.py`     | Main logic for capturing voice, generating response, and speaking it |
 | `requirements.txt` | List of Python dependencies              |
 
 ---
@@ -36,7 +36,7 @@ The app provides a natural and interactive conversational experience, bridging s
 ---
 
 ### 🚀 How to Run:
-# Step 1. Install dependencies:
+# Step 1: Install dependencies:
      ```bash
      pip install -r requirements.txt
 
