@@ -42,8 +42,6 @@ The app provides a natural and interactive conversational experience, bridging s
 
 ---
 
-
-### ▶️ 
 # Step 2: Run the assistant:
       ```bash
     docker build . -t voice-chatapp-powered-by-openai
